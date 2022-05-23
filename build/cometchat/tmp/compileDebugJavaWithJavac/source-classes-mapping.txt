@@ -1,0 +1,2 @@
+com/dart/cometchat/BuildConfig.java
+ com.dart.cometchat.BuildConfig
